@@ -9,7 +9,7 @@ if not os.path.isfile("Contraseñas.txt"):
 
 while True:
 
-    #Defino las variables para los caracteres de la contraseña
+    #Defino las variables para los carácteres de la contraseña
 
     letras_mayusculas=string.ascii_uppercase
     letras_minusculas=string.ascii_lowercase
